@@ -1,8 +1,7 @@
-onst articles = [
+const articles = [
     {
       id: "1",
-      title: 'An experimental evaluation of test driven development vs. test-last development 
-with industry professionals',
+      title: 'An experimental evaluation of test driven development vs. test-last development with industry professionals',
       authors: "Munir, H., Wnuk, K., Petersen, K., Moayyed, M.",
       source: "EASE",
       pubyear: "2014",
@@ -12,8 +11,7 @@ with industry professionals',
     },
   {
     _id: "2",
-      title: 'An experimental evaluation of test driven development vs. test-last development 
-with industry professionals',
+      title: 'An experimental evaluation of test driven development vs. test-last development with industry professionals',
       authors: "Munir, H., Wnuk, K., Petersen, K., Moayyed, M.",
       source: "EASE",
       pubyear: "2014",
@@ -23,8 +21,7 @@ with industry professionals',
   },
     {
       _id: "3",
-      title: 'Realizing quality improvement through test driven development: results and 
-experiences of four industrial teams',
+      title: 'Realizing quality improvement through test driven development: results and experiences of four industrial teams',
       authors: "Nagappan, N., Maximilien, E. M., Bhat, T., Williams, L.",
       source: " Empirical Software Engineering, 13(3), 289–302",
       pubyear: "2008",
@@ -44,8 +41,7 @@ experiences of four industrial teams',
     },
     {
       _id: "5",
-      title: "A Comparative Case Study on the Impact of Test-Driven Development on Program 
-Design and Test Coverage",
+      title: "A Comparative Case Study on the Impact of Test-Driven Development on Program Design and Test Coverage",
       authors: "Siniaalto, M., Abrahamsson, P.",
       source: "ArXiv.Org, cs.SE, arXiv:1711.05082-284",
       pubyear: "2017",

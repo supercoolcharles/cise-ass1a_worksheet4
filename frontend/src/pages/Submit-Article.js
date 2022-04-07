@@ -1,5 +1,6 @@
 import React from "react";
- 
+import SubmissionForm from "../components/SubmissionForm.js";
+
 const SubmitArticle = () =>  {
      return (
       <div>
@@ -10,6 +11,7 @@ inclusion in our SEPER repo.</p>
 for the SE practice selected</p>
             <p>Also the display table of evidence levels for different claims will show here 
 for the SE practice selected</p>
+            <SubmissionForm/>
         </div>
     );
 }
